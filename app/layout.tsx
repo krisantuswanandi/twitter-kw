@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Twitter Mini",
-  description: "A mini version of twitter.com",
+  title: "Twitter KW",
+  description: "A KW version of twitter.com",
 };
 
 export default function RootLayout({
